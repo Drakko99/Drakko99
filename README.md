@@ -79,7 +79,7 @@ Técnico Superior en Administración de Sistemas Informáticos y Programador Ful
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianrdr17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/adrián-rodríguez-del-río-15446b2bb/))
 
 </div>
 
