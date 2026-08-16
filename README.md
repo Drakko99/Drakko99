@@ -1,50 +1,92 @@
 <div align="center">
+  
+# 👋 Hello World, I'm Adrián Rodríguez!
 
-# ¡Hola! Soy Adrián 👋
-
-### Full Stack Developer · Administración de Sistemas · España
+**Software Developer & Systems Administrator** | Full Stack Enthusiast 🚀
 
 </div>
 
-## 🚀 Sobre mí
+---
 
-Software developer y Técnico Superior en Administración de Sistemas, con experiencia práctica en el desarrollo y mantenimiento de aplicaciones web y móviles, y en la gestión de servidores Windows y Linux. Me manejo bien con **TypeScript, Laravel e Ionic** en el día a día, y también he trabajado en **accesibilidad web y móvil**, implementando soluciones compatibles con lectores de pantalla como NVDA.
+## 💼 About Me
 
-- 💬 Pregúntame sobre desarrollo full stack, administración de sistemas o accesibilidad web
-- 📫 Contacto: **adrianrdr17@gmail.com**
-- 🌐 Idiomas: Español (nativo) · Inglés (B2) · Francés (A2)
+Técnico Superior en Administración de Sistemas Informáticos y Programador Full Stack con experiencia en creación y mantenimiento de aplicaciones web y móviles. Apasionado por el desarrollo accesible y las soluciones tecnológicas eficientes.
 
-## 🛠️ Stack tecnológico
+- 🔭 Actualmente trabajando en proyectos con **TypeScript**, **React** y **Next.js**
+- 🌱 Aprendiendo continuamente nuevas tecnologías y frameworks
+- ⚡ Especializado en desarrollo full stack y administración de servidores (Linux/Windows)
+- ♿ Comprometido con la accesibilidad web y móvil
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,php,laravel,java,py,nodejs,dart,flutter,mysql,mongodb,git,gitlab,linux&perline=9&theme=light" alt="Stack tecnológico de Adrián" />
-</p>
+---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Drakko99&show_icons=true&title_color=1B3A5C&icon_color=7A1F33&text_color=333333&hide_border=true" alt="Estadísticas de GitHub de Adrián" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Drakko99&layout=compact&title_color=1B3A5C&text_color=333333&hide_border=true" alt="Lenguajes más usados" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drakko99&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakko99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
-## 📌 Proyectos destacados
+---
 
-<p align="center">
-  <a href="https://github.com/Drakko99/game-library-web"><img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Drakko99&repo=game-library-web&title_color=1B3A5C&text_color=333333&hide_border=true" alt="game-library-web" /></a>
-  <a href="https://github.com/Drakko99/game-library-mobile"><img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Drakko99&repo=game-library-mobile&title_color=1B3A5C&text_color=333333&hide_border=true" alt="game-library-mobile" /></a>
-  <a href="https://github.com/Drakko99/juego_impostor"><img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Drakko99&repo=juego_impostor&title_color=1B3A5C&text_color=333333&hide_border=true" alt="juego_impostor" /></a>
-  <a href="https://github.com/Drakko99/MonitorStockTS"><img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Drakko99&repo=MonitorStockTS&title_color=1B3A5C&text_color=333333&hide_border=true" alt="MonitorStockTS" /></a>
-  <a href="https://github.com/Drakko99/todo_app"><img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Drakko99&repo=todo_app&title_color=1B3A5C&text_color=333333&hide_border=true" alt="todo_app" /></a>
-</p>
+## 🛠️ Tech Stack
 
-> 💡 `juego_impostor`, `MonitorStockTS` y `todo_app` todavía no tienen descripción en GitHub — añádesela para que sus tarjetas se vean completas (lo explico en el paso 4 de la guía).
+<div align="center">
 
-## 📫 Conectemos
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <a href="mailto:adrianrdr17@gmail.com"><img src="https://img.shields.io/badge/Email-7A1F33?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Drakko99"><img src="https://img.shields.io/badge/GitHub-1B3A5C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Cuando tengas LinkedIn, descomenta esta línea y pon tu enlace:
-  <a href="TU_URL_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
-</p>
+### Backend & Mobile
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![MonitorStockTS](https://github-readme-stats.vercel.app/api/pin/?username=Drakko99&repo=MonitorStockTS&theme=tokyonight&hide_border=true)](https://github.com/Drakko99/MonitorStockTS)
+[![game-library-web](https://github-readme-stats.vercel.app/api/pin/?username=Drakko99&repo=game-library-web&theme=tokyonight&hide_border=true)](https://github.com/Drakko99/game-library-web)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianrdr17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+
+</div>
+
+---
+
+<div align="center">
+  
+⭐ Thanks for visiting my profile! Feel free to check out my projects and contribute. ⭐
+
+</div>
