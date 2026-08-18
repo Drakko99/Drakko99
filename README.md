@@ -76,9 +76,9 @@ IT Systems Administration Specialist and Full Stack Developer with experience in
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; gap: 15px;">
-    <img src="https://github-readme-stats.shion.dev/api?username=Drakko99&theme=onedark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-    <img src="https://streak-stats.demolab.com/?user=Drakko99&theme=onedark&hide_border=true" alt="Streak Stats"/>
+<div style="display: flex; gap: 10px;">
+    <img src="https://github-readme-stats.shion.dev/api?username=Drakko99&theme=onedark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="160"/>
+    <img src="https://streak-stats.demolab.com/?user=Drakko99&theme=onedark&hide_border=true" alt="Streak Stats" height="160"/>
 </div>
 
 <br/>
@@ -86,7 +86,6 @@ IT Systems Administration Specialist and Full Stack Developer with experience in
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Drakko99&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 
 </div>
-
 
 ---
 
