@@ -75,7 +75,7 @@ IT Systems Administration Specialist and Full Stack Developer with experience in
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Drakko99&theme=onedark&hide_border=true&include_all_commits=true&count_private=false) &nbsp;&nbsp; ![](https://streak-stats.demolab.com/?user=Drakko99&theme=onedark&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=Drakko99&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)![](https://streak-stats.demolab.com/?user=Drakko99&theme=onedark&hide_border=true)
 
 <br/>
 
